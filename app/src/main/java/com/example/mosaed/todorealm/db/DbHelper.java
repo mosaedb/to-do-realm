@@ -89,7 +89,17 @@ public class DbHelper {
         });
     }
 
-    public static void deleteAllTasks(Realm realm) {
+    public static void deleteArchive(Realm realm) {
+        realm.executeTransaction(new Realm.Transaction() {
+            @Override
+            public void execute(Realm realm) {
+                RealmResults<Task> archivedTasksList = getArchivedTasks(realm);
+                archivedTasksList.deleteAllFromRealm();
+            }
+        });
+    }
+
+    public static void deleteAll(Realm realm) {
         realm.executeTransaction(new Realm.Transaction() {
             @Override
             public void execute(Realm realm) {
