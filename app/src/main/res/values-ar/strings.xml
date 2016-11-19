@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مهامي باستخدام رالم</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="delete_task">حذف المهمة؟</string>
+    <string name="discard">تجاهل</string>
+    <string name="done">تم!</string>
+    <string name="edit_task">تحرير المهمة</string>
+    <string name="keep_editing">متابعة التحرير</string>
+    <string name="message_discard_changes">تجاهل التعديلات؟</string>
+    <string name="relax">مهمة واحدة يومياً = 365 مهمة سنوياً ^_^</string>
+    <string name="message_deleted">المهمة حُذفت</string>
+    <string name="message_saved">المهمة حُفظت</string>
+    <string name="message_updated">المهمة حُدثت</string>
+    <string name="what_to_do">ماذا ستنجز؟</string>
+    <string name="delete_all_tasks">حذف جميع المهام؟</string>
+    <string name="save">حفظ</string>
+    <string name="message_archived">المهمة أُرشفت</string>
+    <string name="archive">أرشفة</string>
+    <string name="archive_all_tasks">أرشفة جميع المهام؟</string>
+    <string name="icon_archive">أيقونة أرشفة</string>
+    <string name="message_tasks_deleted">المهام حُذفت</string>
+    <string name="go_to_archive">الذهاب للأرشيف</string>
+    <string name="delete_all_archive">حذف الأرشيف؟</string>
+    <string name="message_archive_deleted">الأرشيف حُذف</string>
+</resources>

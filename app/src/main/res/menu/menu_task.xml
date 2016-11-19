@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".TaskActivity">
+
+    <item
+        android:id="@+id/action_archive_all_tasks"
+        android:title="@string/archive_all_tasks"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_go_to_archive"
+        android:title="@string/go_to_archive"
+        app:showAsAction="never" />
+</menu>

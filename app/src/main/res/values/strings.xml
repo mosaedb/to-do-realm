@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">To Do Realm</string>
+    <string name="what_to_do">What To Do?</string>
+    <string name="done">Done!</string>
+    <string name="relax">One Task Every Day = 365 Task Every Year ^_^</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="message_saved">Task Saved</string>
+    <string name="message_updated">Task Updated</string>
+    <string name="message_deleted">Task Deleted</string>
+    <string name="message_tasks_deleted">Tasks Deleted</string>
+    <string name="message_archived">Task Archived</string>
+    <string name="message_archive_deleted">Archive Deleted</string>
+    <string name="message_discard_changes">Discard Changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_task">Delete Task?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="archive">Archive</string>
+    <string name="delete_all_tasks">Delete All Tasks?</string>
+    <string name="archive_all_tasks">Archive All Tasks?</string>
+    <string name="delete_all_archive">Delete Archive?</string>
+    <string name="icon_archive">Archive icon</string>
+    <string name="go_to_archive">Go to Archive</string>
+</resources>
