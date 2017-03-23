@@ -2,7 +2,7 @@ package com.example.mosaed.todorealm.db;
 
 import android.util.Log;
 
-import com.example.mosaed.todorealm.EditorActivity;
+import com.example.mosaed.todorealm.activity.EditorActivity;
 import com.example.mosaed.todorealm.model.Task;
 
 import io.realm.Realm;

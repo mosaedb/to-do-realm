@@ -9,7 +9,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TaskActivity">
+        <activity android:name=".activity.TaskActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -17,11 +17,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EditorActivity"
-            android:parentActivityName=".TaskActivity">
+            android:name=".activity.EditorActivity"
+            android:parentActivityName=".activity.TaskActivity">
         </activity>
-        <activity android:name=".ArchiveActivity"
-            android:parentActivityName=".TaskActivity">
+        <activity android:name=".activity.ArchiveActivity"
+            android:parentActivityName=".activity.TaskActivity">
         </activity>
     </application>
 

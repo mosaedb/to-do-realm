@@ -1,4 +1,4 @@
-package com.example.mosaed.todorealm;
+package com.example.mosaed.todorealm.activity;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -13,6 +13,8 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.example.mosaed.todorealm.adapter.ArchiveAdapter;
+import com.example.mosaed.todorealm.R;
 import com.example.mosaed.todorealm.db.DbHelper;
 import com.example.mosaed.todorealm.model.Task;
 
